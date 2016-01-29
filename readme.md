@@ -13,6 +13,4 @@ Steps to deploy
 
 This will start the server on port 8080.
 
-Enjoy, please sir!
-
-This is the second commit.
+Edited
